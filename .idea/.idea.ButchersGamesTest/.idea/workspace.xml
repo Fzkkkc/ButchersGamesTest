@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c8c2c9e-59f7-48b6-b29c-69f84824b9c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861E23C6-7270-4A4A-8ECA-9C234AF0CAC5/7c/e2325bb9/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/UnitRagdoll.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Obstacles/Cone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Obstacles/Gem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Obstacles/Mine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Obstacles/PlayerNotActive.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Obstacles/ConeObstacle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Obstacles/TriggerDamaged.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Obstacles/DeathCollider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Obstacles/GemObstacle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Obstacles/MineObstacle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Obstacles/IdlePlayerCharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterOptions/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterOptions/PlayerCharacterActive.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterOptions/Points.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterOptions/PoolPlayers.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterOptions/PoolActivePlayersCharacters.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterOptions/Ragdoll.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterOptions/UnitRagdoll.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/GemCyrrency.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/GemCounterText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/GemCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PlayerActiveCharactersCountText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PlayerActiveCharactersCount.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utilites/CameraShake.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utilites/CameraShakeAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utilites/DownUpFeedbakcs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utilites/PulseUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ViewHelpers/CameraShakeAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ViewHelpers/PulseUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ViewHelpers/ImpulseUiGameObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ActionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventsHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PointFinish.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CompletedLevelTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EffectsSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Drawing.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DrawingHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovementSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rotate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelMovementSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameHelpers/CompletedLevelTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameHelpers/DrawingHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameHelpers/EffectsSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameHelpers/EventsHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameHelpers/LevelMovementSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameHelpers/PointFinish.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameHelpers/Rotate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterOptions/PoolActivePlayerCharacters.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/LoadLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameHelpers/RotateSaw.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2afESjUGK4zTZ5cgjmIn7QGNMgG" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c8c2c9e-59f7-48b6-b29c-69f84824b9c5" name="Default Changelist" comment="" />
+      <created>1704701251200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704701251200</updated>
+      <workItem from="1704701296961" duration="1578000" />
+      <workItem from="1704703260382" duration="15867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="262" key="IDE.errors.dialog" timestamp="1704703279524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="262" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1704703279524" />
+  </component>
+</project>
